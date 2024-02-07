@@ -10,6 +10,5 @@ names = ["Alice", "Bob", "Charlie", "David", "Eve"]
 # Sorting the names alphabetically
 sorted_names = sorted(names)
 
-# Printing the sorted names
 for name in sorted_names:
     print(name)
